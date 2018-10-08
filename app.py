@@ -5,7 +5,7 @@ from pymessenger import Bot
 
 app=Flask(__name__)
 
-PAGE_ACCESS_TOKEN="EAAEyGbC3w3YBAMqHQjZA3l1v7dHqbhxbYQJrNkv2prXdxoOviUP3B67c2soUF1l9MQuywmJLGZBWfowSWz5TZAGYSIh60dD4V8bGhQSZCbI2FCZCKDIAZB7l2LKWeZAY4XBJg57qClH0zzoU0QAhlGFzAXMLZBtOvbmXFpY2rkV35QZDZD"
+PAGE_ACCESS_TOKEN="@#$%^&*(*&^%$#$%^&*(*&^%$#$%^&*(*&^%$#$%^&*(*&^%$#$%^&*("
 
 bot = Bot(PAGE_ACCESS_TOKEN)
 @app.route('/',methods=['GET'])

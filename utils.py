@@ -1,7 +1,7 @@
 from wit import Wit
 from gnewsclient import gnewsclient
 
-access_token = "7JLQEJON5HR7P522UVH4JN53XMGRLOEV"
+access_token = "!@#$%^76%$#@#$%^&6%$#@#$%^7"
 
 client = Wit(access_token = access_token)
 
